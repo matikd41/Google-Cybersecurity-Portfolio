@@ -16,7 +16,7 @@ Each folder contains its own README with the scenario, my approach, and supporti
 | Incident handler's journal | [View Project](./Incident%20handler's%20journal) |
 
 ## Structure
-
+```text
 Google-Cybersecurity-Portfolio
 ├── README.md
 ├──apply-filters-to-sql-queries/
@@ -68,5 +68,5 @@ Google-Cybersecurity-Portfolio
         ├── NIST_SP_800-30_Rev._1.pdf
         ├── Scenario.pdf
         └── Vulnerability_assessment_report.pdf
-
+```
         
