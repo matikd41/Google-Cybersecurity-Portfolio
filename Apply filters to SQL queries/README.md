@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Following the discovery of potential security issues involving user login attempts and employee workstations, I was tasked with querying and filtering the organization’s database using SQL to retrieve relevant records across multiple datasets and investigate the security events.
+Following the discovery of potential security issues outlined in the [scenario](./docs/Scenario.pdf) involving user login attempts and employee workstations, I was tasked with querying and filtering the organization’s database using SQL to retrieve relevant records across multiple datasets and investigate the security events.
 
 ## Database Structure
 
@@ -138,3 +138,6 @@ apply-filters-to-sql-queries/
         └── Retrieve_all_employees_not_in_IT.png
 ```
 
+- [`docs/Scenario.pdf`](./docs/Scenario.pdf) — Original activity scenario
+- [`docs/Current_file_permissions.pdf`](./docs/Current_file_permissions.pdf) — Database schema reference
+- [`docs/screenshots/`](./docs/screenshots/) — Query output screenshots
