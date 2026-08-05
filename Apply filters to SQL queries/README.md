@@ -28,6 +28,8 @@ The investigation involved querying two primary tables within the organizational
 | `department` | Department the employee belongs to |
 | `office` | Office location of the employee |
 
+---
+
 ## Retrieve After-Hours Failed Login Attempts
 
 After discovering a potential security incident that had occurred after business hours. All login attempts made after 18:00 were queried in the database for further investigation.
