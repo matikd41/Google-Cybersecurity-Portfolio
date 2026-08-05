@@ -139,5 +139,5 @@ apply-filters-to-sql-queries/
 ```
 
 - [`docs/Scenario.pdf`](./docs/Scenario.pdf) — Original activity scenario
-- [`docs/Current_file_permissions.pdf`](./docs/Current_file_permissions.pdf) — Database schema reference
+- [`docs/Table_formats.pdf`](./docs/Table_formats.pdf) — Database schema reference
 - [`docs/screenshots/`](./docs/screenshots/) — Query output screenshots
